@@ -1,11 +1,13 @@
 # Hello 👋
 
-### Welcome to 𝗫𝗟𝗕𝗼𝘁𝘀
+Welcome to 𝗫𝗟𝗕𝗼𝘁𝘀! This github organization is managed by [This-Team](https://t.me/XlBots) 
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
 <p><img align="right" src="https://github.com/XLBots/README.MD/blob/main/animation_500_kxa883sd.gif" alt="XLBots" /></p>
+
+thanks for visiting our github organization page below are more information about us
 
 ## Our work Stats
 
