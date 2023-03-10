@@ -1,6 +1,6 @@
 # Hello 👋
 
-## Welcome to 𝗫𝗟𝗕𝗼𝘁𝘀
+### Welcome to 𝗫𝗟𝗕𝗼𝘁𝘀
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
