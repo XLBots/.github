@@ -7,7 +7,9 @@ Welcome to 𝗫𝗟𝗕𝗼𝘁𝘀! This github organization is managed by [Thi
 
 <p><img align="right" src="https://github.com/XLBots/README.MD/blob/main/animation_500_kxa883sd.gif" alt="XLBots" /></p>
 
-thanks for visiting our github organization page below are more information about us
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)                                     
+
 
 ## Our work Stats
 
@@ -79,3 +81,4 @@ thanks for visiting our github organization page below are more information abou
   <br>
   <br>
  </p>
+
