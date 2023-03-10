@@ -7,12 +7,10 @@ Welcome to 𝗫𝗟𝗕𝗼𝘁𝘀! This github organization is managed by [Thi
 
 <p><img align="right" src="https://github.com/XLBots/README.MD/blob/main/animation_500_kxa883sd.gif" alt="XLBots" /></p>
 
+# Our Badges
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)                                     
-
-
-## Our work Stats
-
 <p align="left"> 
 
   <a> 
@@ -65,7 +63,6 @@ Welcome to 𝗫𝗟𝗕𝗼𝘁𝘀! This github organization is managed by [Thi
 </p>
 
 
-
 ## Connect with me:
 <p align="left">
   <a href="https://www.instagram.com/amateurs_engineers/" target="blank"><img align="center"
@@ -73,6 +70,8 @@ Welcome to 𝗫𝗟𝗕𝗼𝘁𝘀! This github organization is managed by [Thi
       alt="XLBots" height="30" width="40" /></a>
 </p>
 
+
+## Our work Stats
 -----
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=piroxpower&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
