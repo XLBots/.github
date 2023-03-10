@@ -1,4 +1,4 @@
-# Hello 👋
+## Hello 👋
 
 Welcome to 𝗫𝗟𝗕𝗼𝘁𝘀! This github organization is managed by [This-Team](https://t.me/XlBots) 
 
@@ -15,7 +15,7 @@ Welcome to 𝗫𝗟𝗕𝗼𝘁𝘀! This github organization is managed by [Thi
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Github](https://img.shields.io/badge/Github%20Server-CC2927?style=for-the-badge&logo=github%20server&logoColor=whit) 
+![Github](https://img.shields.io/badge/Github%20Server-CC2927?style=for-the-badge&logo=github%20server&logoColor=Blue) 
    <a>
     <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
   </a>
